@@ -10,7 +10,7 @@ helpstring = """
          dhcproutegen 192.168.22.0/24,10.20.20.1
          dhcproutegen 172.16.27.50/32,172.16.27.1 10.0.50.0/255.255.192.0,192.168.17.1
 
-    github: 
+    github: https://github.com/freewood/dhcproutegen
 
 """
 
